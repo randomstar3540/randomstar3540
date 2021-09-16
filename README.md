@@ -1,3 +1,9 @@
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomstar3540&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomstar3540&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 ### Hi there 👋
 
 - 🏫 I'm a 2nd year undergraduate student at The University of Sydney
@@ -15,8 +21,4 @@
  -->
 
 [Telegram](https://t.me/hoshisaki_shirone) | [Blog](https://blog.shirone.me/) | [Twitter](https://twitter.com/shirone_calpis) <!-- | [Personal Web Page](https://shirone.me/) (Under construction) -->
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomstar3540)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomstar3540)](https://github.com/anuraghazra/github-readme-stats)
 
