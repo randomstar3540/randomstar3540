@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**randomstar3540/randomstar3540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏫 I'm a 2nd year undergraduate student at The University of Sydney
+- 🌱 I’m currently majoring in Compiter Science and Pure Mathematics
+- 🔎 I'm interested in topics like operating systems, computer architecture and physics
+- 🔉 I can speak Cantonese (Native), Mandarin (Native), English (Fluently) and Japanese (Intermediate)
+- 🤔 I’m looking for some research or internship opportunities
+- 🎮 I enjoy playing maimai DX
+- ♿ I am interested in accessibility / accessible facilities, for both cyber and real world
+- 📫 Email: zwan5283@uni.sydney.edu.au | i@shirone.me
 
-Here are some ideas to get you started:
+<!-- 
+- ❤️ Pronouns: She/Her
+~~You must be very attentive if you have found this.~~
+ -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Telegram](https://t.me/hoshisaki_shirone) | [Blog](https://blog.shirone.me/) | [Twitter](https://twitter.com/shirone_calpis) <!-- | [Personal Web Page](https://shirone.me/) (Under construction) -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomstar3540)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomstar3540)](https://github.com/anuraghazra/github-readme-stats)
+
