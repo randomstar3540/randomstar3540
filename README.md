@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-- 🏫 I'm a 2nd year undergraduate student at The University of Sydney
+- 🏫 I'm a 3rd year undergraduate student at The University of Sydney
 - 🌱 I’m currently majoring in Computer Science and Pure Mathematics
 - 🔎 I'm interested in topics like operating systems, computer architecture and physics
 - 🔉 I can speak Cantonese (Native), Mandarin (Native), English (Fluently) and Japanese (Intermediate)
