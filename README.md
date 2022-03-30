@@ -14,11 +14,7 @@
 - 🎮 I enjoy playing maimai DX
 - ♿ I am interested in accessibility / accessible facilities, for both cyber and real world
 - 📫 Email: zwan5283@uni.sydney.edu.au | i@shirone.me
+- ❤️ Pronouns: She/Her 🏳️‍⚧️
 
-<!-- 
-- ❤️ Pronouns: She/Her
-~~You must be very attentive if you have found this.~~
- -->
-
-[Telegram](https://t.me/hoshisaki_shirone) | [Blog](https://blog.shirone.me/) | [Twitter](https://twitter.com/shirone_calpis) <!-- | [Personal Web Page](https://shirone.me/) (Under construction) -->
+[Telegram](https://t.me/hoshisaki_shirone) | [Blog](https://blog.shirone.me/) | [Twitter](https://twitter.com/shirone_calpis)  | [Homepage](https://shirone.me/)
 
