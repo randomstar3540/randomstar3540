@@ -1,7 +1,6 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomstar3540&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![GitHub stats](https://github-readme-stats.vercel.app/api?username=randomstar3540&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomstar3540&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=randomstar3540&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ### Hi there 👋
