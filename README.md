@@ -8,7 +8,7 @@
 - 🏫 I'm a 3rd year UG student at The University of Sydney, majoring in CS and Maths
 - 🔎 I'm interested in topics like operating systems, computer architecture
 - 🔉 I can speak Cantonese (Native), Mandarin (Native), English (Fluently) ,and Japanese (Intermediate)
-- 🤔 I’m looking for some research or internship opportunities
+- 🤔 I’m looking for some research or job opportunities
 - 📫 Email: zwan5283@uni.sydney.edu.au | i@shirone.me
 - ❤️ Pronouns: She/Her 🏳️‍⚧️
 
