@@ -12,4 +12,4 @@
 - 📫 Email: zwan5283@uni.sydney.edu.au | i@shirone.me
 - ❤️ Pronouns: She/Her 🏳️‍⚧️
 
-[Telegram](https://t.me/hoshisaki_shirone) | [Channel(Telegram)](https://t.me/shirone_daily) | [Homepage](https://shirone.me/) | [Twitter](https://twitter.com/shirone_calpis) | 
+[Telegram](https://t.me/shirone_ko) | [Channel(Telegram)](https://t.me/shirone_daily) | [Homepage](https://shirone.me/) | [Twitter](https://twitter.com/shirone_calpis) | 
