@@ -8,4 +8,4 @@
 - 🔎 Also a Research Student at [FSA Lab @USYD](https://www.fsa-lab.org/)
 - 🔉 I can speak Cantonese (Native), Mandarin (Native), English (Fluently) ,and Japanese (Intermediate)
 - 📫 Email: zwan5283@uni.sydney.edu.au | randomstar3540@gmail.com
-- ❤️ Pronouns: She/Her 🏳️‍⚧️
+<!--- - ❤️ Pronouns: She/Her 🏳️‍⚧️  -->
